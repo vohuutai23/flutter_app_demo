@@ -1,6 +1,6 @@
-# code_flutter
+# Flutter - Assignment 01 - Create flutter programming environment
 
-A new Flutter project.
+21110294 - Võ Hữu Tài
 
 ## Getting Started
 
