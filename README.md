@@ -1,16 +1,32 @@
-# Flutter - Assignment 01 - Create flutter programming environment
+# Flutter Project - Assignment 01: Setting Up Flutter Development Environment
 
-21110294 - Võ Hữu Tài
+**Student ID:** 21110294  
+**Name:** Võ Hữu Tài
 
-## Getting Started
+## Overview
+This project demonstrates a basic Flutter setup with an introduction to building a simple application that includes two screens: an Introduction Page and a Login Page. The app showcases group member information and navigates automatically to the login screen after a 10-second delay.
 
-This project is a starting point for a Flutter application.
+## Project Features
+### Introduction Page:
+- Displays details about group members.
+- Transitions to the Login Page after a 10-second timer.
 
-A few resources to get you started if this is your first Flutter project:
+### Login Page:
+- Simple login interface with username and password input fields.
+- Login button that can be connected to authentication functionality.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Setup & Requirements
+- **Flutter SDK:** Ensure you have the Flutter SDK installed.
+- **Development Environment:** Android Studio or Visual Studio Code with the Flutter and Dart plugins installed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running the Project
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository_url>
+   cd project_directory
+2. **Run Flutter Doctor:** Check your setup by running:
+   ```bash
+    flutter doctor
+3. **Launch the Application:** Use the following command to start the app:
+    ```bash
+    flutter run
